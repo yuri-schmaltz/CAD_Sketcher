@@ -11,7 +11,7 @@ Thank you for considering contributing to CAD Sketcher!
    ```bash
    python scripts/check_versions.py
    ```
-2. Run tests before submitting a pull request:
+2. Run tests before submitting a pull request. These scripts require a local Blender installation available on your `PATH`:
    ```bash
    bash run_tests.sh
    ```
